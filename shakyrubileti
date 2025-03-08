@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Приглашение в Дом Саяна</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f8f8f8;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+            color: #555;
+        }
+        .btn {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #ff6600;
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+        }
+        .btn:hover {
+            background-color: #cc5500;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Приглашаем в Дом Саяна!</h1>
+        <p><strong>Дата и время:</strong> [Укажите дату и время]</p>
+        <p><strong>Место:</strong> Дом Саяна</p>
+        <p>Вас ждет теплая атмосфера, вкусная еда и много приятных эмоций!</p>
+        <p>Не пропустите!</p>
+        <a href="#" class="btn">Я приду!</a>
+    </div>
+</body>
+</html>
